@@ -1,0 +1,27 @@
+
+body {
+  background-color:floralwhite;
+}
+
+h1 {
+  color: purple;
+  font-size: 48px;
+}
+
+p {
+  color: deeppink;
+}
+
+#first {
+  color:brown;
+}
+
+h1.main {
+  color:darkblue;
+  font-size: 64px;
+}
+
+p.main {
+  color:darkblue;
+  font-size: 20px;
+}
